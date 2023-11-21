@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/lineOne/start.jsp" value="file://$PROJECT_DIR$/src/main/webapp/lineOne" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/lineThird/lineThirdFirst/coffeChoose.jsp" value="file://$PROJECT_DIR$/src/main/webapp/lineThird/lineThirdFirst" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/lineThird/lineThirdSecond/wait-first-choose.jsp" value="file://$PROJECT_DIR$/src/main/webapp/lineThird/lineThirdSecond" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/lineTwo/lineOne-BranchOne/LineTwo-BranchOne-2_1/LineTwo-BranchOne-2_1.jsp" value="file://$PROJECT_DIR$/src/main/webapp/lineTwo/lineOne-BranchOne/LineTwo-BranchOne-2_1" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/lineTwo/second-choose.jsp" value="file://$PROJECT_DIR$/src/main/webapp/lineTwo" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/template/head.jsp" value="file://$PROJECT_DIR$/src/main/webapp/template" />
+      </map>
+    </option>
+  </component>
+</project>
